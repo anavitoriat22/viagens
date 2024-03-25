@@ -1,0 +1,102 @@
+body{
+    background: url(https://1.bp.blogspot.com/-DefeuwB-tCs/XcJBobnsoXI/AAAAAAAAeaY/rjkXDPonwuUvelfbb3gTzqQ1by9SEVlhgCLcBGAsYHQ/s2560/forest-landscape-clouds-4k-xn-2560x1440.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.titulo:hover{
+    background-color: rgb(7, 7, 7);
+    color: rgb(240, 240, 240);
+    font-size: 25pt;
+}
+input,button:hover{
+    cursor: pointer;
+}
+
+nav{
+    background-color: orange;
+    border-start-end-radius: 10px;
+    border-start-start-radius: 10px;
+    height: 64px;
+    width: 100%;
+}
+
+#ol_nav{
+    list-style: none;
+    text-align: left;
+    display: inline-block;
+}
+
+.li{
+    float: left;
+    margin-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    color: white;
+    transition: all 350ms ease-in-out;
+    transform: scale(0.99);
+}
+
+.container1{
+    float: left;
+    padding: 20px;
+    transition: all 350ms ease-in-out;
+    transform: scale(0.99);
+    height: 61px;
+}
+
+.container1:hover{
+background-color: black;
+padding: 20px;
+transition: all 350ms ease-in-out;
+transform: scale(1.1);
+cursor: pointer;
+}
+
+.li:hover{
+    color: orange;
+    cursor: pointer;
+    transition: all 350ms ease-in-out;
+transform: scale(1.1);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#div{
+    font-size: 5e;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+a{
+    text-decoration: none;
+}
+
+#body_home{
+    background: url(https://www.melhoresdestinos.com.br/wp-content/uploads/2020/03/organizar-fotos-de-viagem-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a{
+    text-decoration: none;
+}
+#body_sobre_nos{
+    background: url(https://gunceloku.com/uploads/beyin-firtinasini-ilk-bulan-kisi-kimdir-64a5ba0a09c9b.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
